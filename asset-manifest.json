@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/man-ts/static/css/main.24dfac3f.css",
+    "main.js": "/man-ts/static/js/main.c1792d76.js",
+    "static/js/787.3b503cd3.chunk.js": "/man-ts/static/js/787.3b503cd3.chunk.js",
+    "static/media/howLooksBlank.png": "/man-ts/static/media/howLooksBlank.4ba6153bc8640c3e18ec.png",
+    "static/media/howLooks.png": "/man-ts/static/media/howLooks.76fd6ec3cd04be81e2c9.png",
+    "static/media/paintIcon.png": "/man-ts/static/media/paintIcon.c0a4e9fec69215efd1d5.png",
+    "static/media/googleSheets.png": "/man-ts/static/media/googleSheets.52c66e184595ff0fe4ef.png",
+    "static/media/textTurner.png": "/man-ts/static/media/textTurner.a46f3711053ff321d276.png",
+    "static/media/howToOpen.png": "/man-ts/static/media/howToOpen.b4430acccaa6230e39b4.png",
+    "static/media/cellsInfo.png": "/man-ts/static/media/cellsInfo.3f3d47190e944d97c7c7.png",
+    "static/media/excelIcon.png": "/man-ts/static/media/excelIcon.fe2943b909690e08986c.png",
+    "static/media/fontInfo.png": "/man-ts/static/media/fontInfo.4dbac420fb8bedf83866.png",
+    "static/media/powerpointIcon.png": "/man-ts/static/media/powerpointIcon.f72d89796f2df39fcb92.png",
+    "static/media/changeWidthHeight.png": "/man-ts/static/media/changeWidthHeight.c431e5709cd107dba7ba.png",
+    "static/media/formulaBarArrow.png": "/man-ts/static/media/formulaBarArrow.9a0013a40d4b8eed9c76.png",
+    "index.html": "/man-ts/index.html",
+    "static/media/arrow.svg": "/man-ts/static/media/arrow.6722e7abac9e30b021bb4af79228949c.svg",
+    "static/media/lightTheme.svg": "/man-ts/static/media/lightTheme.7e99c517aa723adb7777d4d05e2c1b0d.svg",
+    "static/media/darkTheme.svg": "/man-ts/static/media/darkTheme.aa0cfb26c6556d0864415d67a0892b55.svg",
+    "main.24dfac3f.css.map": "/man-ts/static/css/main.24dfac3f.css.map",
+    "main.c1792d76.js.map": "/man-ts/static/js/main.c1792d76.js.map",
+    "787.3b503cd3.chunk.js.map": "/man-ts/static/js/787.3b503cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24dfac3f.css",
+    "static/js/main.c1792d76.js"
+  ]
+}
